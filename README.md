@@ -1,6 +1,6 @@
 # bread-api
-A lightweight and simple API for bread.
-Made by: _<a href="https://github.com/flicker211">flicker211<a>_ | _<a href="https://github.com/russian-dev">russian-dev</a>_
+A lightweight and simple API for bread.\
+Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_
 
 ---
 ### Instructions:
