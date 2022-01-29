@@ -3,55 +3,55 @@
         {
             "name": "white bread",
             "desc": "great for sandwich!.",
-            "image": "https://ibb.co/6gjpdVX",
+            "image": "https://bread-api-images.russiandev.repl.co/images/whiteBread/whiteBread.png",
             "rating":"7/10"
         },
         {
             "name": "rye bread",
             "desc": "good if you want to be somewhat healthy...",
-            "image": "https://ibb.co/HBnCQcs",
+            "image": "https://bread-api-images.russiandev.repl.co/images/ryeBread/ryeBread.png",
             "rating": "6/10"
         },
         {
             "name": "bread bread bread bread",
             "desc": "when the breads do breadception",
-            "image": "https://pbs.twimg.com/media/DQVfDquUIAEaWa4.jpg",
+            "image": "https://bread-api-images.russiandev.repl.co/images/breadception/breadception.jpg",
             "rating":"5/10"
         },
         {
             "name": "moldy bready",
             "desc": "NOT great for sandwich!.",
-            "image": "https://gotfruitblog.files.wordpress.com/2008/09/moldy-bread-20080927.png",
+            "image": "https://bread-api-images.russiandev.repl.co/images/moldyBread/moldyBread.png",
             "rating":"0/10"
         },
         {
             "name": "red bread",
             "desc": "i swear its not blood",
-            "image": "https://ibb.co/GF32t4s",
+            "image": "https://bread-api-images.russiandev.repl.co/images/redBread/redBread.png",
             "rating":"2/10"
         },
         {
             "name": "big bread",
             "desc": "big",
-            "image": "https://ibb.co/Wn29gvd",
+            "image": "https://bread-api-images.russiandev.repl.co/images/bigBread/bigBread.png",
             "rating":"6/10"
         },
         {
             "name": "very big bread",
             "desc": "big very it is",
-            "image": "https://ibb.co/TT0bC7w",
+            "image": "https://bread-api-images.russiandev.repl.co/images/verybigBread/verybigBread.png",
             "rating":"7/10"
         },
         {
             "name": "humongous bread",
             "desc": "very very big very it is",
-            "image": "https://ibb.co/FnGSvS9",
+            "image": "https://bread-api-images.russiandev.repl.co/images/humongousBread/humongousBread.png",
             "rating":"8/10"
         },
         {
             "name": "collosol bread",
             "desc": "it houses 3 bread universes!",
-            "image": "https://ibb.co/xYbGtLv",
+            "image": "https://bread-api-images.russiandev.repl.co/images/collosolBread/collosolBread.png",
             "rating":"10/10"
         }
     ],
