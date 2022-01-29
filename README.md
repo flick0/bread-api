@@ -3,8 +3,7 @@ A lightweight and simple API for bread.\
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_
 
 ---
-### Instructions:
-*Pretty simple*
+### Notes:
 
 - ``https://bread-api.russiandev.repl.co/bread/random`` if you want a random bread type. (Subject to change, this is a place holder)
 - ``https://bread-api.russiandev.repl.co/bread/[breadName]`` if you want a specific bread type. ^^^
