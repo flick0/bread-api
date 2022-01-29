@@ -3,55 +3,55 @@
         {
             "name": "white bread",
             "desc": "great for sandwich!.",
-            "image":null,
+            "image": "https://ibb.co/6gjpdVX",
             "rating":"7/10"
         },
         {
             "name": "rye bread",
             "desc": "good if you want to be somewhat healthy...",
-            "image":null,
+            "image": "https://ibb.co/HBnCQcs",
             "rating": "6/10"
         },
         {
             "name": "bread bread bread bread",
             "desc": "when the breads do breadception",
-            "image":null,
+            "image": "https://pbs.twimg.com/media/DQVfDquUIAEaWa4.jpg",
             "rating":"5/10"
         },
         {
             "name": "moldy bready",
             "desc": "NOT great for sandwich!.",
-            "image":null,
+            "image": "https://gotfruitblog.files.wordpress.com/2008/09/moldy-bread-20080927.png",
             "rating":"0/10"
         },
         {
             "name": "red bread",
             "desc": "i swear its not blood",
-            "image":null,
+            "image": "https://ibb.co/GF32t4s",
             "rating":"2/10"
         },
         {
             "name": "big bread",
             "desc": "big",
-            "image":null,
+            "image": "https://ibb.co/Wn29gvd",
             "rating":"6/10"
         },
         {
             "name": "very big bread",
             "desc": "big very it is",
-            "image":null,
+            "image": "https://ibb.co/TT0bC7w",
             "rating":"7/10"
         },
         {
             "name": "humongous bread",
             "desc": "very very big very it is",
-            "image":null,
+            "image": "https://ibb.co/FnGSvS9",
             "rating":"8/10"
         },
         {
             "name": "collosol bread",
             "desc": "it houses 3 bread universes!",
-            "image":null,
+            "image": "https://ibb.co/xYbGtLv",
             "rating":"10/10"
         }
     ],
