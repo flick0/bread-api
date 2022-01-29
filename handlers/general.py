@@ -11,4 +11,4 @@ class general(web.Application):
 
 
 def setup(app):
-    return general(app), ["ping"]
+    return general(app), {"ping":"/ping"}

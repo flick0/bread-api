@@ -1,0 +1,66 @@
+{
+    "breads":[
+        {
+            "name": "white bread",
+            "desc": "great for sandwich!.",
+            "image":null,
+            "rating":"7/10"
+        },
+        {
+            "name": "rye bread",
+            "desc": "good if you want to be somewhat healthy...",
+            "image":null,
+            "rating": "6/10"
+        },
+        {
+            "name": "bread bread bread bread",
+            "desc": "when the breads do breadception",
+            "image":null,
+            "rating":"5/10"
+        },
+        {
+            "name": "moldy bready",
+            "desc": "NOT great for sandwich!.",
+            "image":null,
+            "rating":"0/10"
+        },
+        {
+            "name": "red bread",
+            "desc": "i swear its not blood",
+            "image":null,
+            "rating":"2/10"
+        },
+        {
+            "name": "big bread",
+            "desc": "big",
+            "image":null,
+            "rating":"6/10"
+        },
+        {
+            "name": "very big bread",
+            "desc": "big very it is",
+            "image":null,
+            "rating":"7/10"
+        },
+        {
+            "name": "humongous bread",
+            "desc": "very very big very it is",
+            "image":null,
+            "rating":"8/10"
+        },
+        {
+            "name": "collosol bread",
+            "desc": "it houses 3 bread universes!",
+            "image":null,
+            "rating":"10/10"
+        }
+    ],
+    "template":
+    {
+        "name": "name",
+        "desc": "description",
+        "image":"null if no image, url if image",
+        "rating":"#/10"
+    },
+    "max-rating":10
+}

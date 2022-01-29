@@ -2,6 +2,8 @@ from aiohttp import web
 import os
 import importlib
 
+# dad?
+
 
 class main(web.Application):
     def __init__(self, app):
@@ -27,9 +29,11 @@ class main(web.Application):
                 _cogs[handle[:-3]] = [cog, handles]
         for cog in _cogs:
             for handle in _cogs[cog][1]:
-                self.app.router.add_get(f"/{handle}", getattr(_cogs[cog][0], handle))
-                _routes.append(f"/{handle}")
+                self.app.router.add_get(f"{_cogs[cog][1][handle]}", getattr(_cogs[cog][0], handle))
+                _routes.append(f"{_cogs[cog][1][handle]}")
         return handles, _cogs, _routes
+        # this is very advanced.
+        # I'll work on writings random breds to a JSON file..
 
 
 if __name__ == "__main__":

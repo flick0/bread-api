@@ -33,4 +33,4 @@ class java_util(web.Application):
 
 
 def setup(app):
-    return java_util(app), ["convertHashmapJson"]
+    return java_util(app), {"convertHashmapJson": "/convertHashmapJson"}
