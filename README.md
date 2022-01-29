@@ -1,8 +1,28 @@
 # bread-api
-it is tha bread-api :O
+A lightweight and simple API for bread.
+Made by: _<a href="https://github.com/flicker211">flicker211<a>_ | _<a href="https://github.com/russian-dev">russian-dev</a>_
 
-I love bread - russian-dev
+---
+### Instructions:
+*Pretty simple*
+
+- ``https://bread-api.russiandev.repl.co/bread/random`` if you want a random bread type. (Subject to change, this is a place holder)
+- ``https://bread-api.russiandev.repl.co/bread/[breadName]`` if you want a specific bread type. ^^^
+- It's formatted as a JSON.
+
+---
+Current bread types (9):
+`whiteBread`
+`ryeBread`
+`moldyBread`
+`redBread`
+`bigBread`
+`verybigBread`
+`humonousBread`
+`collosolBread`
+`breadception`
 
 
-Jan 29. 2020
-Russian-Dev: Added images to ``./data/breads.json``
+
+*Please create an Issue If you find any bugs*
+
