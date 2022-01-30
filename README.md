@@ -5,13 +5,11 @@ not a ripoff of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  b
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ 
 
 
-# **UptimeRobot Statistics**
-
+## **UptimeRobot Statistics**
 \
 **API Status:**  \
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509518-b946e5eb6c4de5cf141b2c00)
 ![Generic badge](https://badgen.net/uptime-robot/response/m790509518-b946e5eb6c4de5cf141b2c00) 
-
 \
 **API Image DB Status:** \
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509611-6bd9a6ee25e3abedc2e1838f)
