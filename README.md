@@ -1,5 +1,5 @@
 # bread-api 
-[![PyPI status](https://img.shields.io/pypi/version/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![Generic badge](https://img.shields.io/badge/API-down-red.svg)](https://shields.io/) \
+[![Generic badge](https://img.shields.io/badge/Version-beta-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/API-down-red.svg)](https://shields.io/) \
 A lightweight and simple API for bread.\
 Fork of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
 \
