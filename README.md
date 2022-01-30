@@ -13,7 +13,7 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 ![Generic badge](https://badgen.net/uptime-robot/month/m790509518-b946e5eb6c4de5cf141b2c00)
 
 \
-**API Image DB Status (UptimeRobot):** \
+**API Image DB Status (UptimeRobot):** \ 
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509611-6bd9a6ee25e3abedc2e1838f)
 ![Generic badge](https://badgen.net/uptime-robot/response/m790509611-6bd9a6ee25e3abedc2e1838f) \
 ![Generic badge](https://badgen.net/uptime-robot/day/m790509611-6bd9a6ee25e3abedc2e1838f)
