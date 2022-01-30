@@ -23,7 +23,7 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 
 ---
 **Current bread types (9):** \
-`whiteBread`
+_`whiteBread`_
 `ryeBread`
 `moldyBread`
 `redBread`
