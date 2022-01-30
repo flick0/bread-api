@@ -31,15 +31,15 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 
 ---
 **Current bread types** ***(10)***: \
-_`whiteBread`_
-_`ryeBread`_
-_`moldyBread`_
-_`redBread`_
-_`bigBread`_
-_`verybigBread`_
-_`humonousBread`_
-_`collosolBread`_
-_`breadception`_
+_`white bread`_
+_`rye bread`_
+_`moldy bread`_
+_`red bread`_
+_`big bread`_
+_`very big bread`_
+_`humonous bread`_
+_`collosol bread`_
+_`bread bread bread bread`_
 _`baguette`_
 # Discord.py command using bread-api:
 ```python
