@@ -40,7 +40,7 @@ _`verybigBread`_
 _`humonousBread`_
 _`collosolBread`_
 _`breadception`_
-_`baguetteBread`_
+_`baguette`_
 # Discord.py command using bread-api:
 ```python
 import json
