@@ -24,9 +24,9 @@ _<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russian
 ---
 ### Notes:
 
-- ``_<a href="https://bread-api.russiandev.repl.co/bread/random">`https://bread-api.russiandev.repl.co/bread`</a>_`` if you want a random bread type. (Subject to change)\
-- `_<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread?name=[BREAD]`</a>_`` if you want a specific bread type. ^^^\
-` ``_<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread`</a>_`` if you want more details\
+- ``_<a href="https://bread-api.russiandev.repl.co/bread/random">`https://bread-api.russiandev.repl.co/bread/random`</a>_``\ if you want a random bread type. (Subject to change)
+- `_<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread?name=[BREAD]`</a>_`` if you want a specific bread type. ^^^
+` ``_<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread`</a>_`` if you want more details
 - It's formatted as a JSON.
 
 ---
