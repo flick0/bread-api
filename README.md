@@ -22,7 +22,7 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 - It's formatted as a JSON.
 
 ---
-Current bread types (9):
+**Current bread types (9):** \
 `whiteBread`
 `ryeBread`
 `moldyBread`
