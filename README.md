@@ -33,7 +33,7 @@ _`red bread`_
 _`big bread`_
 _`very big bread`_
 _`humonous bread`_
-_`collosol bread`_
+_`collosol bread`_\
 _`bread bread bread bread`_
 _`baguette`_
 _+ user-created_
