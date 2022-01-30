@@ -62,3 +62,6 @@ async def bread(ctx):
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 	
 *Please create an Issue If you find any bugs*
+	
+<img alt=":O Bread" src="/images/icon.png" style="display:block;width:5%;margin-left:auto;margin-right:auto;">
+	
