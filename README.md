@@ -1,5 +1,5 @@
 # bread-api 
-[![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-null-black.svg)](https://shields.io/) \
+[![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-null-black.svg) \
 A lightweight and simple API for bread.\
 Fork of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ 
