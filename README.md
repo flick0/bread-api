@@ -8,7 +8,6 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 **API Status:**
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509518-b946e5eb6c4de5cf141b2c00)
 	
-	m790509518-b946e5eb6c4de5cf141b2c00
 	
 ---
 ### Notes:
