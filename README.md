@@ -21,7 +21,7 @@ Current bread types (9):
 `verybigBread`
 `humonousBread`
 `collosolBread`
-`breadception`\
+`breadception`
 # Discord.py command using bread-api:
 ```python
 import json
