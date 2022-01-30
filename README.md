@@ -24,14 +24,14 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 ---
 **Current bread types (9):** \
 _`whiteBread`_
-`ryeBread`
-`moldyBread`
-`redBread`
-`bigBread`
-`verybigBread`
-`humonousBread`
-`collosolBread`
-`breadception`
+_`ryeBread`_
+_`moldyBread`_
+_`redBread`_
+_`bigBread`_
+_`verybigBread`_
+_`humonousBread`_
+_`collosolBread`_
+_`breadception`_
 # Discord.py command using bread-api:
 ```python
 import json
