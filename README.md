@@ -25,7 +25,7 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 - _<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread`</a>_ if you want more details.
 
 ---
-**Current bread types** ***(10)***: \
+**Current official bread types** ***(10)***: \
 _`white bread`_
 _`rye bread`_
 _`moldy bread`_
@@ -36,7 +36,7 @@ _`humonous bread`_
 _`collosol bread`_
 _`bread bread bread bread`_
 _`baguette`_
-_theres more..._
+_+ user-created_
 # Discord.py get random bread command using bread-api:
 ```python
 import json
