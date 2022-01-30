@@ -53,8 +53,8 @@ async def bread(ctx):
     DESC = data['desc']
     IMAGE = data['image']
     RATING = data['rating']
-    embed: discord.Embed = discord.Embed(title="Rock Info:", description="", color=discord.Color.dark_blue())
-    embed.set_author(name="Rock-API")
+    embed: discord.Embed = discord.Embed(title="Bread Info:", description="", color=discord.Color.dark_blue())
+    embed.set_author(name="Bread-API")
     embed.set_thumbnail(url=IMAGE)
     embed.add_field(name="Name", value=NAME, inline=False)
     embed.add_field(name="Description", value=DESC, inline=False)
