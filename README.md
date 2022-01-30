@@ -30,7 +30,7 @@ Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="
 - It's formatted as a JSON.
 
 ---
-**Current bread types** ***(9)***: \
+**Current bread types** ***(10)***: \
 _`whiteBread`_
 _`ryeBread`_
 _`moldyBread`_
@@ -40,6 +40,7 @@ _`verybigBread`_
 _`humonousBread`_
 _`collosolBread`_
 _`breadception`_
+_`baguetteBread`_
 # Discord.py command using bread-api:
 ```python
 import json
