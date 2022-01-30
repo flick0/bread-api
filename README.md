@@ -1,4 +1,4 @@
-# <img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:3%;margin-left:auto;margin-right:auto;"> Bread-API
+# <img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:4%;margin-left:auto;margin-right:auto;"> Bread-API
 ![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg) ![Generic badge](https://img.shields.io/badge/Version-null-black.svg) \
 A lightweight and simple API for bread.\
 Fork of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
