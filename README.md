@@ -21,8 +21,33 @@ Current bread types (9):
 `verybigBread`
 `humonousBread`
 `collosolBread`
-`breadception`
+`breadception`\
+# Discord.py command using bread-api:
+```python
+import json
+from urllib.request import urlopen
+from discord.ext import commands
 
+@client.command()
+async def bread(ctx):
+    uri = "https://bread-api.russiandev.repl.co/bread/random"
+    response = urlopen(uri)
+    data = json.load(response)
+
+    NAME = data['name']
+    DESC = data['desc']
+    IMAGE = data['image']
+    RATING = data['rating']
+    embed: discord.Embed = discord.Embed(title="Rock Info:", description="-------------------------------------", color=discord.Color.dark_blue())
+    embed.set_author(name="Rock-API")
+    embed.set_thumbnail(url=IMAGE)
+    embed.add_field(name="Name", value=NAME, inline=False)
+    embed.add_field(name="Description", value=DESC, inline=False)
+    embed.add_field(name="Rating", value=RATING, inline=False)
+	
+    await ctx.send(embed=embed)
+    uri = ""
+```
 
 
 *Please create an Issue If you find any bugs*
