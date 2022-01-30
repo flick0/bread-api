@@ -3,11 +3,16 @@ import os
 import importlib
 
 # dad?
-
+# mom
+# son
 
 class main(web.Application):
     def __init__(self, app):
         self.app = app
+
+
+    async def index(self): # still nothing
+      return web.FileResponse('./static/index.html')
 
     def start(self):
         handles, cogs, routes = self.loadAllHandles()
@@ -17,7 +22,9 @@ class main(web.Application):
         print(handles, "\n")
         print("routes")
         print(routes, "\n")
+        self.index()
         web.run_app(self.app, port=8080)
+
 
     def loadAllHandles(self):
         global cogs
@@ -34,6 +41,8 @@ class main(web.Application):
         return handles, _cogs, _routes
         # this is very advanced.
         # I'll work on writings random breds to a JSON file..
+
+
 
 
 if __name__ == "__main__":
