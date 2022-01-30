@@ -1,4 +1,4 @@
-# Bread-API 
+# Bread-API <img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:3%;margin-left:auto;margin-right:auto;">
 ![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg) ![Generic badge](https://img.shields.io/badge/Version-null-black.svg) \
 A lightweight and simple API for bread.\
 Fork of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
@@ -61,7 +61,4 @@ async def bread(ctx):
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 	
-*Please create an Issue If you find any bugs*
-	
-<img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:3%;margin-left:auto;margin-right:auto;">
-	
+*Please create an Issue If you find any bugs*	
