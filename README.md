@@ -1,10 +1,13 @@
 # bread-api 
-[![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-beta-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/API%20Status-down-red.svg)](https://shields.io/) \
+[![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Version-beta-blue.svg)](https://shields.io/) \
 A lightweight and simple API for bread.\
 Fork of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
 \
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_
 
+**API Status:**
+[![UptimeRobot](https://badgen.net/uptime-robot/status/m790509518-b946e5eb6c4de5cf141b2c00]
+	
 ---
 ### Notes:
 
