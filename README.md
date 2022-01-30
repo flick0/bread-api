@@ -1,5 +1,5 @@
 # <img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:3%;margin-left:auto;margin-right:auto;"> Bread-API
-![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg) ![Generic badge](https://img.shields.io/badge/Version-v0.1.0%20alpha-black.svg) \
+![Generic badge](https://img.shields.io/badge/Release-soon™-purple.svg) ![Generic badge](https://img.shields.io/badge/Version-0.1.0%20alpha-black.svg) \
 A lightweight and simple API for bread.\
 not a ripoff of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ 
