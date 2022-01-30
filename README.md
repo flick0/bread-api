@@ -4,18 +4,16 @@ A lightweight and simple API for bread.\
 not a ripoff of _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
 Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ 
 
-# **available commands**
-_<a href="https://bread-api.russiandev.repl.co/bread">`https://bread-api.russiandev.repl.co/bread`</a>_ 
 
-# **uptime**
+# **UptimeRobot Statistics**
 
 \
-**API Status (UptimeRobot):**  \
+**API Status:**  \
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509518-b946e5eb6c4de5cf141b2c00)
 ![Generic badge](https://badgen.net/uptime-robot/response/m790509518-b946e5eb6c4de5cf141b2c00) 
 
 \
-**API Image DB Status (UptimeRobot):** \
+**API Image DB Status:** \
 ![Generic badge](https://badgen.net/uptime-robot/status/m790509611-6bd9a6ee25e3abedc2e1838f)
 ![Generic badge](https://badgen.net/uptime-robot/response/m790509611-6bd9a6ee25e3abedc2e1838f) 
 
