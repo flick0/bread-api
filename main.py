@@ -11,8 +11,8 @@ class main(web.Application):
         self.app = app
 
 
-    async def index(self): # still nothing
-      return web.FileResponse('./static/index.html')
+    def index(self):
+      return  web.FileResponse('./static/index.html')
 
     def start(self):
         handles, cogs, routes = self.loadAllHandles()
@@ -39,8 +39,6 @@ class main(web.Application):
                 self.app.router.add_get(f"{_cogs[cog][1][handle]}", getattr(_cogs[cog][0], handle))
                 _routes.append(f"{_cogs[cog][1][handle]}")
         return handles, _cogs, _routes
-        # this is very advanced.
-        # I'll work on writings random breds to a JSON file..
 
 
 
