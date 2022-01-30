@@ -63,5 +63,5 @@ async def bread(ctx):
 	
 *Please create an Issue If you find any bugs*
 	
-<img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:5%;margin-left:auto;margin-right:auto;">
+<img alt=":O Bread" src="https://bread-api-images.russiandev.repl.co/images/icon.png" style="display:block;width:1%;margin-left:auto;margin-right:auto;">
 	
