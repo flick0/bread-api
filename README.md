@@ -41,7 +41,6 @@ _+ user-created_
 ```python
 import json
 from urllib.request import urlopen
-from discord.ext import commands
 
 @client.command()
 async def bread(ctx):
