@@ -2,7 +2,7 @@
 ![Generic badge](https://img.shields.io/badge/release-soon™-purple.svg) ![Generic badge](https://img.shields.io/badge/version-0.1.2%20alpha-black.svg) \
 A lightweight and simple API for bread.\
 Inspiration: _<a href="https://github.com/Mr-Conos/Rock-API">Rock-API</a>_  by  _<a href="https://github.com/Mr-Conos">Mr-Conos</a>_ (OG Dev, go check out Rock-API)\
-Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ 
+Made by:  _<a href="https://github.com/flicker211">flicker211<a>_  |  _<a href="https://github.com/russian-dev">russian-dev</a>_ \
 Bread-API Discord: <a href="https://discord.gg/vCAtrFzMUE">.gg/vCAtrFzMUE</a>
 
 
